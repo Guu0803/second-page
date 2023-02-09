@@ -95,7 +95,6 @@
       </div>
     </div>
   </div>
-
 </div>
 
 </template>
@@ -247,10 +246,12 @@ button {
 .tabelas {
   display: flex;
   justify-content: center;
-  padding: 1vh 1vw;
+  padding: 5%;
 }
 .tabelaApro {
   color: green;
+  width: 40%;
+  margin-right: 20%;
 }
 .tabelaRepro {
   color:red;
